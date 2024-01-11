@@ -1,0 +1,86 @@
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\V2_Biblioteca.exe.config
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\V2_Biblioteca.exe
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\V2_Biblioteca.pdb
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Npgsql.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Buffers.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Memory.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Text.Json.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Threading.Channels.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.ValueTuple.dll
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\Npgsql.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Buffers.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Memory.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Text.Json.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Threading.Channels.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\bin\Debug\System.ValueTuple.xml
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\obj\Debug\V2_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\obj\Debug\V2_Biblioteca.Form1.resources
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\obj\Debug\V2_Biblioteca.Properties.Resources.resources
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\obj\Debug\V2_Biblioteca.csproj.GenerateResource.cache
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\obj\Debug\V2_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\obj\Debug\V2_Biblioteca.csproj.CopyComplete
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\obj\Debug\V2_Biblioteca.exe
+C:\Users\Diogo co\Documents\FACULDADE\PROJETOS EM C\C#\ATIVIDADES GABRIEL\V2_Biblioteca\obj\Debug\V2_Biblioteca.pdb
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\V2_Biblioteca.exe.config
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\V2_Biblioteca.exe
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\V2_Biblioteca.pdb
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Npgsql.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Buffers.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Collections.Immutable.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Memory.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Numerics.Vectors.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Text.Encodings.Web.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Text.Json.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Threading.Channels.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.ValueTuple.dll
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\Npgsql.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Buffers.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Collections.Immutable.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Memory.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Numerics.Vectors.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Text.Encodings.Web.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Text.Json.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Threading.Channels.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\bin\Debug\System.ValueTuple.xml
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\obj\Debug\V2_Biblioteca.csproj.AssemblyReference.cache
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\obj\Debug\V2_Biblioteca.Form1.resources
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\obj\Debug\V2_Biblioteca.Properties.Resources.resources
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\obj\Debug\V2_Biblioteca.csproj.GenerateResource.cache
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\obj\Debug\V2_Biblioteca.csproj.CoreCompileInputs.cache
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\obj\Debug\V2_Biblioteca.csproj.CopyComplete
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\obj\Debug\V2_Biblioteca.exe
+E:\Lógica de Programação e Algoritmos II\V2_Biblioteca\V2_Biblioteca\obj\Debug\V2_Biblioteca.pdb
